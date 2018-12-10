@@ -1,18 +1,18 @@
-# test site
+# Il sito di Lorenzo Calosi
 
-questo è il sito di test
+Questo è il sito di Lorenzo Calosi
 
-un elenco:
-- primo
-- - sotto punto
-- secondo
-- terzo
+Il mio elenco:
+- Calosi spacca
+- Calosi rula
+- Solo Calosi è il piu' forte
 
-| A  | B  |
+## Vittorie totali
+
+| Calosi  | Tu  |
 |---|---|
-| 11  | 12  |
-| 21  | 22  |
+| 9999  | 0, perdente  |
 
-![GitHub image](img/github_image.jpg)
+![Ridley Image](https://upload.wikimedia.org/wikipedia/it/thumb/e/ea/Ridley.jpg/213px-Ridley.jpg)
 
-[link al mio sito](https://stefanocecere.com)
+[Link ad una webcam sulla tua vita](https://www.youtube.com/watch?v=gUmLjTOkHzs)
