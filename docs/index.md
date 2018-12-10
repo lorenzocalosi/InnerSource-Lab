@@ -13,6 +13,6 @@ Il mio elenco:
 |---|---|
 | 9999  | 0, perdente  |
 
-![Ridley Image](https://upload.wikimedia.org/wikipedia/it/thumb/e/ea/Ridley.jpg/213px-Ridley.jpg)
+![Ridley Image](img/ridley_image.jpg)
 
 [Link ad una webcam sulla tua vita](https://www.youtube.com/watch?v=gUmLjTOkHzs)
