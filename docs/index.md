@@ -1,18 +1,20 @@
-# Il sito di Lorenzo Calosi
+# Chrono trigger is the best game ever made
 
-Questo è il sito di Lorenzo Calosi
+If you haven't played Chrono Trigger yet, what are you doing with your life
 
-Il mio elenco:
-- Calosi spacca
-- Calosi rula
-- Solo Calosi è il piu' forte
+**Top ~~ten~~ three reasons Chrono Trigger is badass**
+- It is the best RPG on the Super Nintendo
+- There is a fun robot with a flamethrower
+- It's a time traveling shenanigan adventure
 
-## Vittorie totali
+## Pros and cons to playing Chrono Trigger
 
-| Calosi  | Tu  |
+| Pros  | Cons  |
 |---|---|
-| 9999  | 0, perdente  |
+| You get to enjoy gaming bliss  | Literally none  |
+| You get to hear wonderful music  |   |
+| You get to see all the mode 7 graphics  |   |
 
-![Ridley Image](img/ridley_image.jpg)
+![Chrono Image](img/chrono_image.jpg)
 
-[Link ad una webcam sulla tua vita](https://www.youtube.com/watch?v=gUmLjTOkHzs)
+[Link to the greatest videogame music theme ever made](https://www.youtube.com/watch?v=2r1iesThvYg)
